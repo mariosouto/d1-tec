@@ -18,6 +18,10 @@
 
 [Literate Potato](./src/literate_potato.md)
 
+## Ejercicio Clean Code
+
+[Coding Horror](./src/ejercicio_clean_code.cs)
+
 ## Instalación de Git
 
 [Instalación](./src/instalacion.md)
