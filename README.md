@@ -5,3 +5,4 @@
 * [Clase 3 - 27 de Marzo - TDD](https://github.com/mariosouto/d1-2019/tree/master/C3-TDD)
 * [Clase 4 - 3 de Abril - Git](https://github.com/mariosouto/d1-2019/tree/master/C4-Git)
 * [Clase 5 - 10 de Abril - Windows Forms](https://github.com/mariosouto/d1-2019/tree/master/C5-Windows-Forms)
+* [Clase 6 - 24 de Abril - OOD & LINQ](https://github.com/mariosouto/d1-2019/tree/master/C6-LINQ)
