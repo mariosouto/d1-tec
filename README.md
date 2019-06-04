@@ -7,3 +7,7 @@
 * [Clase 5 - Windows Forms](./C5-Windows-Forms)
 * [Clase 6 - OOD & LINQ](./C6-LINQ)
 * [Clase 7 - Entity Framework](./C7-Entity-Framework)
+
+## Contacto
+
+* Hecho por: msoutoolazabal@gmail.com
