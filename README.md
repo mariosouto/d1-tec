@@ -6,3 +6,4 @@
 * [Clase 4 - Git](https://github.com/mariosouto/d1-2019/tree/master/C4-Git)
 * [Clase 5 - Windows Forms](https://github.com/mariosouto/d1-2019/tree/master/C5-Windows-Forms)
 * [Clase 6 - OOD & LINQ](https://github.com/mariosouto/d1-2019/tree/master/C6-LINQ)
+* [Clase 7 - Entity Framework](https://github.com/mariosouto/d1-2019/tree/master/C7-Entity-Framework)
