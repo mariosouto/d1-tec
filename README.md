@@ -18,8 +18,8 @@
 
 ## Ejercicios
 
-* [Open Learning System](./Ejercicios/OpenLearningSystem)
+* [Open Learning System](./Ejercicios/Ejercicio-OLS)
 
 ## Contacto
 
-* Hecho por: msoutoolazabal@gmail.com
+* Hecho por: msoutoolazabal@gmail.com, constanza.curzio@gmail.com
