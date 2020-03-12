@@ -16,9 +16,10 @@
 12. [Interfaces](src/interfaces.md)
 13. [Colecciones](src/colecciones.md)
 14. [Enums](src/enums.md)
-15. [C# 6.0](src/c_sharp_6.md)
-16. [Debug vs. Release](src/debug_vs_release.md)
-17. [Referencias](src/referencias.md)
+15. [Excepciones](src/exceptions.md)
+16. [C# 6.0](src/c_sharp_6.md)
+17. [Debug vs. Release](src/debug_vs_release.md)
+18. [Referencias](src/referencias.md)
 
 ## Ejercicio
 
