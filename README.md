@@ -1,4 +1,4 @@
-# Diseño de Aplicaciones 1 (Práctico)
+# Diseño de Aplicaciones 1 (Tecnología)
 
 ## Clases
 
