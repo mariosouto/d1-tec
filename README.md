@@ -12,13 +12,14 @@
 
 ## Guías
 
-* [Cómo generar un archivo .bak](./Archivo%20.bak.pdf)
-* [Restaurar una base de datos desde un archivo .bak](./Restaurar%20base%20de%20datos.pdf)
-* [Generación de scripts .sql para exportar esquema y datos de una base](./Generación%20sql.pdf)
+* [Cómo generar un archivo .bak](./archivo-bak.pdf)
+* [Restaurar una base de datos desde un archivo .bak](./restaurar-base-de-datos.pdf)
+* [Generación de scripts .sql para exportar esquema y datos de una base](./generacion-sql.pdf)
 
 ## Ejercicios
 
 * [Open Learning System](./Ejercicios/Ejercicio-OLS)
+* [Clinica](./Ejercicios/Ejercicio-Clinica)
 
 ## Contacto
 
