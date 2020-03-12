@@ -16,6 +16,10 @@
 * [Restaurar una base de datos desde un archivo .bak](./Restaurar%20base%20de%20datos.pdf)
 * [Generación de scripts .sql para exportar esquema y datos de una base](./Generación%20sql.pdf)
 
+## Ejercicios
+
+* [Open Learning System](./Ejercicios/OpenLearningSystem)
+
 ## Contacto
 
 * Hecho por: msoutoolazabal@gmail.com
