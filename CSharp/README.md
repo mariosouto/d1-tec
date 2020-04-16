@@ -1,4 +1,4 @@
-# Clase 2: C#
+# C#
 
 ## Temario
 

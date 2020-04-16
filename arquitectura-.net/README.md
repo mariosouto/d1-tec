@@ -1,4 +1,4 @@
-# Clase 1: Arquitectura .NET
+# Arquitectura .NET
 
 1. [Introducción](src/intro.md)
 2. [Arquitectura interna de .NET](src/arquitectura_interna.md)

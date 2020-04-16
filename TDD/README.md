@@ -1,4 +1,4 @@
-# Clase 3: Test Driven Development (TDD)
+# Test Driven Development (TDD)
 
 ## Temario
 
@@ -11,10 +11,14 @@
 
 ## Material adicional
 
+[Test solitarios vs sociales, mocks, etc](./material-adicional-tdd.pdf)
+
+## Link de interés
+
 Debate entre Kent Beck, Martin Fowler y David Heinemeier Hansson sobre la práctica de TDD y sus implicancias en el diseño de software.
 
 [Is TDD dead?](https://martinfowler.com/articles/is-tdd-dead/)
 
 ## Ejemplo Calculadora con TDD
 
-[Calculadora](https://github.com/mariosouto/d1-2019/tree/master/C3-TDD/Calculator)
+[Calculadora](./Calculator)
