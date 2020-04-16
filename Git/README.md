@@ -1,4 +1,4 @@
-# Clase 4: Git
+# Git
 
 ## Temario
 

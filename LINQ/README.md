@@ -1,4 +1,4 @@
-# Clase 6: Diseño orientado a objetos y LINQ
+# Diseño orientado a objetos y LINQ
 
 ## Temario
 

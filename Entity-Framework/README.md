@@ -1,4 +1,4 @@
-# Clase 7: Entity Framework
+# Entity Framework
 
 ## Temario
 
