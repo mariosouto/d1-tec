@@ -11,10 +11,10 @@ using System.Windows.Forms;
 
 namespace WindowsForms
 {
-    public partial class Form1 : Form
+    public partial class MainForm : Form
     {
         private Logic myLogic;
-        public Form1()
+        public MainForm()
         {
             InitializeComponent();
         }
