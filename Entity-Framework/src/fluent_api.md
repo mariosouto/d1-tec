@@ -28,9 +28,9 @@ public class DispositivoTypeConfiguration : EntityTypeConfiguration<Dispositivo>
 {
   public DispositivoTypeConfiguration()
   {
-    this.Entity<Dispositivo>().HasKey(x => x.Identificador);
-    this.Entity<Dispositivo>().Property(x => x.Nombre).HasMaxLength(30);
-    this.Entity<Dispositivo>().Property(x => x.Descripcion).IsRequired();
+    this.HasKey(x => x.Identificador);
+    this.Property(x => x.Nombre).HasMaxLength(30);
+    this.Property(x => x.Descripcion).IsRequired();
   }
 }
 ```
