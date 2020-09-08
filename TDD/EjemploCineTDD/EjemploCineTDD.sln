@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineTest", "CineTest\CineTest.csproj", "{9CE3746A-1011-4FE1-B8BF-1A959D7F4173}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cine", "Cine\Cine.csproj", "{2E7C3499-BA5B-4C35-806D-CDF5640E2602}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CE3746A-1011-4FE1-B8BF-1A959D7F4173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE3746A-1011-4FE1-B8BF-1A959D7F4173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE3746A-1011-4FE1-B8BF-1A959D7F4173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE3746A-1011-4FE1-B8BF-1A959D7F4173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E7C3499-BA5B-4C35-806D-CDF5640E2602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E7C3499-BA5B-4C35-806D-CDF5640E2602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E7C3499-BA5B-4C35-806D-CDF5640E2602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E7C3499-BA5B-4C35-806D-CDF5640E2602}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BF8CF62-04C3-4E63-BEAC-4646F1864D8C}
+	EndGlobalSection
+EndGlobal
